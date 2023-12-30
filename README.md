@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Django_rest_framework-A50E15?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql"> <img src="https://img.shields.io/badge/flask-E13A34?style=for-the-badge&logo=flask&logoColor=white">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honge7694&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin-bak&show_icons=true&theme=radical)
 <!--
 **honge7694/honge7694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
